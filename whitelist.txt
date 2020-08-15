@@ -1,1 +1,2 @@
 InstagramBridge
+StoriesIGBridge
